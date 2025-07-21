@@ -35,7 +35,7 @@ etl_ahorramas/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/etl_ahorramas.git
+git clone https://github.com/CarlosEzeQuintana/etl_ahorramas.git
 cd etl_ahorramas
 ```
 
